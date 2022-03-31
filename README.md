@@ -35,10 +35,11 @@
 <br><br><br><br><br><br><br><br>
 
 
+
 - 🔭 Highly motivated, result-oriented experienced DevOps Engineer.
 - 🌱 Proficient in DevOps, CI/CD pipelines, Infrastructure as Code and Microservices.
 - ✌ Have strong knowledge and understanding of these technologies as well as Amazon Web Services (AWS). 
-- ⚡ Highly proficient with Kubernetes and Docker/Docker Swarm.
+- ⚡ Highly proficient with Kubernetes and Terraform.
 - 👯 Solid understanding of Software Development Lifecycle with Agile Methodologies. A good team player, and as an ambitious self-starter I am keen to learn and use new technologies and methods. In addition, having particular interest and academic background in human relations I always strive to create a positive atmosphere and cultivate a strong team spirit.
 
 - 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/elif-erdem/) 👀
